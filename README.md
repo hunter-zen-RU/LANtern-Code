@@ -1,5 +1,9 @@
 # LANtern Code 💡
 
+<img width="2048" height="768" alt="LANtern Code_ Connect, Collaborate, Code" src="https://github.com/user-attachments/assets/02f807be-03d6-4133-b9e2-067ed0bfa874" />
+
+
+
 
 Illuminate your workflow. Code together, anywhere.
 
